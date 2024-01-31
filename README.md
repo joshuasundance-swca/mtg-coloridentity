@@ -1,7 +1,7 @@
 ---
 title: mtg-coloridentity
 emoji: 🧙
-colorFrom: white
+colorFrom: blue
 colorTo: red
 sdk: streamlit
 sdk_version: 1.30.0
